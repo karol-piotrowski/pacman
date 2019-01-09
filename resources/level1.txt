@@ -9,10 +9,10 @@ X.XXXX.XX.XXXXXXXX.XX.XXXX.X
 X......XX....XX....XX......X
 XXXXXX.XXXXX.XX.XXXXX.XXXXXX
 _____X.XXXXX.XX.XXXXX.X_____
-_____X.XX____r_____XX.X_____
-_____X.XX_XXXFFXXX_XX.X_____
-XXXXXX.XX_XXX__XXX_XX.XXXXXX
-______.___XXocp_XX___.______
+_____X.XX__________XX.X_____
+_____X.XX_XXXFXXXX_XX.X_____
+XXXXXX.XX_XXX--XXX_XX.XXXXXX
+A_____.___XXocprXX___._____a
 XXXXXX.XX_XXXXXXXX_XX.XXXXXX
 _____X.XX_XXXXXXXX_XX.X_____
 _____X.XX__________XX.X_____
